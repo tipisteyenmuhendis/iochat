@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace iochat.Api.Controllers
+namespace IOChat.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

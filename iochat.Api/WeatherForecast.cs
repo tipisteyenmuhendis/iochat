@@ -1,4 +1,4 @@
-namespace iochat.Api
+namespace IOChat.Api
 {
     public class WeatherForecast
     {
