@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/iochat/FileContentIndex/357ac636-1c60-4fd7-94c5-50930c69a9ff.vsidx
+/.vs/iochat/FileContentIndex/9fba44a6-1355-44a1-b02c-e0e92a188cfe.vsidx
+/.vs/iochat/FileContentIndex/b63e4c17-1cce-49a9-8c18-ae3dcde00832.vsidx
+/.vs/iochat/v17/.futdcache.v2
+/.vs/iochat/v17/.suo
+/.vs/iochat/v17/DocumentLayout.backup.json
+/.vs/iochat/v17/DocumentLayout.json
+/.vs/ProjectEvaluation/iochat.metadata.v9.bin
+/.vs/ProjectEvaluation/iochat.projects.v9.bin
+/.vs/ProjectEvaluation/iochat.strings.v9.bin
