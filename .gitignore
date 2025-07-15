@@ -12,3 +12,12 @@
 /.vs/ProjectEvaluation/iochat.metadata.v9.bin
 /.vs/ProjectEvaluation/iochat.projects.v9.bin
 /.vs/ProjectEvaluation/iochat.strings.v9.bin
+/iochat.Api/obj/Debug/net9.0/iochat.Api.AssemblyInfo.cs
+/iochat.Api/obj/Debug/net9.0/iochat.Api.AssemblyInfoInputs.cache
+/iochat.Api/obj/Debug/net9.0/iochat.Api.assets.cache
+/iochat.Api/obj/Debug/net9.0/iochat.Api.csproj.AssemblyReference.cache
+/iochat.Api/obj/Debug/net9.0/iochat.Api.GeneratedMSBuildEditorConfig.editorconfig
+/iochat.Api/obj/iochat.Api.csproj.nuget.dgspec.json
+/iochat.Api/obj/iochat.Api.csproj.nuget.g.props
+/iochat.Api/obj/project.assets.json
+/iochat.Api/obj/project.nuget.cache
